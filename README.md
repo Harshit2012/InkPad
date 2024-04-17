@@ -49,7 +49,7 @@ Now, your local default branch is up-to-date with the original repository’s de
 ![Screenshot (33)](https://github.com/Harshit2012/InkPad/assets/105143145/6d5bd342-d7c6-4a9a-bfd2-1925954b18a7)
 
 ## Try it out
-Try this website by clicking [here]()
+Try this website by clicking [here](https://harshit2012.github.io/InkPad/)
 
 ## Contribution
 Feel free to fork this project, submit pull requests, or send suggestions to improve the game.
