@@ -48,6 +48,13 @@ Now, your local default branch is up-to-date with the original repository’s de
 ## Preview
 ![Screenshot (33)](https://github.com/Harshit2012/InkPad/assets/105143145/6d5bd342-d7c6-4a9a-bfd2-1925954b18a7)
 
+## To run Python version
+1. Open the folder in cmd and paste this prompt:
+```bash
+python3 main.py
+```
+2. Open file in text editor and run the file.
+
 ## Try it out
 Try this website by clicking [here](https://harshit2012.github.io/InkPad/)
 
