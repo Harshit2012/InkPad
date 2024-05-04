@@ -55,6 +55,17 @@ python3 main.py
 ```
 2. Open file in text editor and run the file.
 
+## Install library
+If you don't have library that are used in `main.py` use following prompts
+- To install `tkinter`
+```bash
+pip install tk
+```
+- To install `requests`
+```bash
+pip install requests
+```
+
 ## Try it out
 Try this website by clicking [here](https://harshit2012.github.io/InkPad/)
 
