@@ -10,6 +10,7 @@ InkPad is an open-source, web-based text editor designed for writers and develop
 - **Responsive Design**: Built with Bootstrap, InkPad looks great on both desktop and mobile.
 - **Local Storage**: Save your work locally to continue where you left off.
 - **File Operations**: Easily upload and download your documents as text files.
+- **Python Version**: Python version is now avaible.
 
 ## Technologies
 - HTML
@@ -24,7 +25,7 @@ To clone your forked repository, use the following command in your terminal:
 
 ```bash
 git clone https://github.com/Harshit2012/InkPad.git
-cd Emoji-Match
+cd InkPad
 ```
 
 ## Syncing Your Fork
