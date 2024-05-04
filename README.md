@@ -69,5 +69,5 @@ pip install requests
 ## Try it out
 Try this website by clicking [here](https://harshit2012.github.io/InkPad/)
 
-## Contribution
-Feel free to fork this project, submit pull requests, or send suggestions to improve the game.
+## License
+This repository is under [MIT License](https://github.com/Harshit2012/InkPad?tab=MIT-1-ov-file#readme)
