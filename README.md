@@ -58,6 +58,8 @@ Now, your local default branch is up-to-date with the original repository’s de
 ```bash
 python3 main.py
 ```
+or
+
 2. Open file in text editor and run the file.
 
 ## Install library
