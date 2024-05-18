@@ -72,6 +72,10 @@ pip install tk
 ```bash
 pip install requests
 ```
+## To run python version⚙️
+```bash
+python main.py
+```
 
 ## Try it out
 Try this website by clicking [here](https://harshit2012.github.io/InkPad/)
